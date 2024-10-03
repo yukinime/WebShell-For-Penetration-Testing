@@ -12,7 +12,7 @@ Kumpulan webshell adalah alat yang sering digunakan dalam pengujian penetrasi di
 - Command Execution
 - Security Evaluation
 
-## Diclaimer
+## Disclaimer !!!
 Penting untuk dicatat bahwa penggunaan webshell harus dilakukan secara etis dan legal, dengan izin yang jelas dari pemilik sistem, untuk memastikan bahwa kegiatan tersebut mendukung upaya keamanan siber yang lebih baik dan bukan untuk tujuan yang merugikan.
 
 
