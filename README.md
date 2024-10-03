@@ -1,44 +1,24 @@
+
 # WebShell
-This is a webshell open source project by https://github.com/xl7dev/WebShell
 
-## Category 
-- Aar
-- Ascx
-- Ashx
-- Asmx
-- Asp
-- Aspx
-- C
-- Cfm
-- Cgi
-- Javascript
-- Jsp
-- Jspx
-- LICENSE
-- Mysql
-- Nginx
-- Other
-- Php
-- Pl
-- README.md
-- SSH
-- Soap
-- Udp
-- WeBaCoo
-- gdog
-- icmp
-- jar
-- nodejs
-- openfire
-- osx
-- pwnginx
-- python
-- reGeorg-master
-- ruby
-- servlet
-- sh
-- war
-- xml
-- xssshell
+Kumpulan webshell adalah alat yang sering digunakan dalam pengujian penetrasi di bidang keamanan siber. Webshell sendiri adalah skrip atau program yang diunggah ke server web, memungkinkan penyerang atau peneliti untuk mengakses dan mengendalikan sistem tersebut secara remote. Tujuan utama dari penggunaan webshell dalam konteks pengujian penetrasi adalah untuk mengevaluasi kerentanan sistem dan mengidentifikasi potensi celah keamanan yang dapat dieksploitasi.
 
-Author: 小乐天
+
+## Purpose and function
+
+- Remote Access
+- Vulnerability Testing
+- Data retrieval
+- Command Execution
+- Security Evaluation
+
+## Diclaimer
+Penting untuk dicatat bahwa penggunaan webshell harus dilakukan secara etis dan legal, dengan izin yang jelas dari pemilik sistem, untuk memastikan bahwa kegiatan tersebut mendukung upaya keamanan siber yang lebih baik dan bukan untuk tujuan yang merugikan.
+
+
+
+
+## Authors
+
+- [@yukinime](https://www.github.com/yukinime)
+
